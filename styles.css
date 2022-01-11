@@ -1,0 +1,29 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #ed5c5c44;
+}
+
+h1 {
+  font-size: 46px;
+  font-weight: 400;
+}
+
+.dish {
+  height: auto;
+  width: 400px;
+  border-radius: 3%;
+}
+
+.ul-item {
+  color: rgb(100, 100, 100);
+}
+
+.steps {
+  font-size: 26px;
+  font-weight: 500;
+}
+
+.steps .instruction {
+  font-size: 16px;
+  font-weight: 400;
+}
